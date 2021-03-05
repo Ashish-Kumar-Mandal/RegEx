@@ -31,12 +31,12 @@ $		End
 *		Zero or more times
 ?		Once or none
 {3}		Exactly three times
-{3,5}	Three to five times
-{3,}	Three or more times
+{3,5}		Three to five times
+{3,}		Three or more times
 
-\s  	Allow whitespace or spaces
-\d  	Allow all digits
-\w  	Allow alphanumeric charecters and underscore
+\s  		Allow whitespace or spaces
+\d  		Allow all digits
+\w  		Allow alphanumeric charecters and underscore
 \.		Period
 .		Allow all characters and symboles
 
